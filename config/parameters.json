@@ -1,0 +1,8 @@
+{
+    "i18n.locale": {
+        "nl": {
+            "name": "Nederlands",
+            "translator.script.plural": "$n != 1"
+        }
+    }
+}
