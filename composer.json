@@ -1,6 +1,6 @@
 {
-    "name": "pallo/app-i18n-nl",
-    "description": "Dutch locale for a Pallo application.",
+    "name": "ride/app-i18n-nl",
+    "description": "Dutch locale for a Ride application.",
     "license": "MIT",
     "version": "0.1.1",
     "authors": [
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "pallo/app": ">=0.4.0",
-        "pallo/app-i18n": ">=0.1.0"
+        "ride/app": ">=0.4.0",
+        "ride/app-i18n": ">=0.1.0"
     }
 }
